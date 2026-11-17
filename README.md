@@ -1,1 +1,1 @@
-# super-admin-client
+# DELETE this repository
